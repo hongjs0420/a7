@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">더행복한부동산</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">매물등록</string>
+    <string name="title_notifications">매물검색</string>
+    <string name="title_share">정보공유</string>
+    <string name="title_mypage">마이페이지</string>
+
+
+</resources>
