@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">더행복한부동산</string>
+    <string name="app_name">더부동산</string>
     <string name="title_home">홈</string>
     <string name="title_dashboard">매물등록</string>
     <string name="title_notifications">매물검색</string>
